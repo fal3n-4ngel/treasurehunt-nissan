@@ -4,11 +4,12 @@ function page() {
   return (
     <div className="min-h-screen flex flex-col w-full  text-black justify-center items-center p-5">
       <h1 className="md:text-[3vw] text-[6vw] rock-salt-regular underline p-5">
-        Team 2 : Clue 4
+        Team 3 : Clue 3
       </h1>
       <h2 className="md:text-[3vw] text-[6vw] md:w-[80%] mx-auto rock-salt-regular text-center">
-        Where data flows to paper sheets, And words in silence meet. By a patch
-        of green, where shadows play, Your next clue quietly waits today.
+        A little sweetness to start your day, In the building just across the
+        way, Find the jar on the 8th floor Where the next clue awaits to be
+        explored!
       </h2>
     </div>
   );
