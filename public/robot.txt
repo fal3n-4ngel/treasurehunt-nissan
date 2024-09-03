@@ -1,0 +1,7 @@
+# Allow all user agents (search engines) to crawl the entire site
+User-agent: *
+
+# Disallow specific pages or directories
+Disallow: /hunt
+Disallow: /(pages)/hunt/
+Disallow: /hunt/
