@@ -7,7 +7,7 @@ function page() {
         Team 4 : Clue 4
       </h1>
       <h2 className="md:text-[3vw] text-[6vw] md:w-[80%] mx-auto rock-salt-regular text-center">
-        Where work meets thought at <br/><span className="text-[5vw]">(1011 0000 0000 0011)<sub>16</sub></span> <br/>, Behind the board where
+        Where work meets thought at <br/><span className="text-[5vw]">(1011 0000 0000 0011)<sub>2-&gt;16</sub></span> <br/>, Behind the board where
         notes might be, A hidden message waits for you, Peel it back to find
         your next clue.
       </h2>
