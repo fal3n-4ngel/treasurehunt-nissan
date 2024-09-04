@@ -6,9 +6,7 @@ function page() {
       <h1 className="md:text-[3vw] text-[6vw] rock-salt-regular underline p-5">
         Team 2 : Clue 2
       </h1>
-      <h2 className="md:text-[3vw] text-[6vw] md:w-[80%] mx-auto rock-salt-regular text-center">
-        Lawn?
-      </h2>
+      <img src="/team2clue2.jpg"/>
     </div>
   );
 }

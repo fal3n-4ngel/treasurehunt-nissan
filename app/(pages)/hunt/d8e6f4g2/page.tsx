@@ -7,9 +7,11 @@ function page() {
         Team 2 : Clue 1
       </h1>
       <h2 className="md:text-[3vw] text-[6vw] md:w-[80%] mx-auto rock-salt-regular text-center">
-        In the building where the sacred river’s name shines, Ascend to the
-        floor where the office confines. Amidst the area where culinary delights
-        are stored, Seek the hint where green by the window is adored.
+      In the building where the sacred river&apos;s name shines,
+Ascend to the floor where the office confines.
+Amidst the area where culinary delights are stored,
+Seek the hint where green by the window is adored.
+
       </h2>
     </div>
   );

@@ -7,8 +7,9 @@ function page() {
         Team 2 : Clue 4
       </h1>
       <h2 className="md:text-[3vw] text-[6vw] md:w-[80%] mx-auto rock-salt-regular text-center">
-        Where data flows to paper sheets, And words in silence meet. By a patch
-        of green, where shadows play, Your next clue quietly waits today.
+        I speak without a mouth and hear without ears. I bring thoughts to life
+        with every silent breath. I&apos;m fed by streams but stay dry. I leave
+        behind traces of whispers, making the unseen visible. What am I?
       </h2>
     </div>
   );
